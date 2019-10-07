@@ -13,5 +13,13 @@
 		p w d : <sform:input path="passwd"/><br>
 		<input type="submit" value="전송"> 
 	</sform:form>
+
+<!-- 	
+	<form id="command" action="/tagtest/login" method="post">
+		i   d : <input id="userid" name="userid" type="text" value=""/><br>
+		p w d : <input id="passwd" name="passwd" type="text" value=""/><br>
+		<input type="submit" value="전송"> 
+	</form>
+-->
 </body>
 </html>
